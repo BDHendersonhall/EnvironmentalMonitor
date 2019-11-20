@@ -10,4 +10,4 @@ The goal is to monitor temperature and humidity in a controlled environment, suc
 Particle device such as an Argon, 3 pin DHT11 temp and humidity sensor.
 
 ### Known bugs
-Occasionally reports extremely high or low temperature which may cause LED to change to red or blue respectively unexpetedly.  Does not impact functionality.
+Occasionally reports extremely high or low temperature incorrectly which may cause LED to change to red or blue respectively unexpetedly.  Does not impact functionality.
