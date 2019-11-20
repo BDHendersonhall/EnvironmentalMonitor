@@ -11,3 +11,5 @@ Particle device such as an Argon, 3 pin DHT11 temp and humidity sensor.
 
 ### Known bugs
 Occasionally reports extremely high or low temperature incorrectly which may cause LED to change to red or blue respectively unexpetedly.  Does not impact functionality.
+
+![image](/20191120_101005.jpg)
