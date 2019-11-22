@@ -51,7 +51,6 @@ int changeInterval(String userValue) {  // Function for setting publish frequenc
 }
 
 void setup() {
-    Serial.begin(9600);
     Particle.variable("Temperature", tempC);    // Enables console to pull current Temperature value
     Particle.variable("Humidity", humidityC);   // Enables console to pull current Humidity value
     Particle.function("Set_Max_Temp", setMaxTemp);  // Allows setting maximum ideal or GREEN temperature threshold in console
